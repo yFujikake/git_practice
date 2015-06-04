@@ -12,3 +12,16 @@ article {
   padding: 10px;
   border: 1px solid #e0e0e0;
 }
+
+header{
+  background: #545454;
+  color:#ffffff;
+  height: 100px;
+  line-height: 100px;
+  padding: 0 1em;
+}
+
+header a{
+  text-decoration: none;
+  color: #ffffff;
+}
