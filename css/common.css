@@ -33,3 +33,22 @@ html,body{
 header h1 {
   margin: 0;
 }
+
+.to_top a{
+  display: inline-block;
+  padding :20px;
+  text-align: right;
+
+}
+
+.to_top:hover{
+  opacity: 0.8;
+}
+
+footer{
+  height: 200px;
+  padding-top: 30px;
+  background: #545454;
+  color: #ffffff;
+  text-align: center;
+}
